@@ -1,0 +1,43 @@
+.section {
+  display: flex;
+  flex-direction: row;
+  width: 650px;
+  padding: 15px;
+  text-align: center;
+  margin-left: 20px;
+}
+.section2 {
+  margin-left: 30px;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 40px;
+}
+.input {
+  margin-right: 30px;
+  margin-left: 20px;
+}
+.list-names {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 200px;
+}
+.names {
+  margin-left: 70px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.label {
+  margin-left: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.airport-name{
+  font-size: 35px;
+  color: black;
+  font-weight: 600;
+  font-family: "Roboto";
+}
